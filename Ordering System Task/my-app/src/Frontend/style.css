@@ -1,0 +1,8 @@
+label{
+    color: blue; /* Change the color to your desired color */
+    padding: 5px; /* Adjust the padding to your desired value */
+  }
+
+  .ReactPaginate{
+     background-color: aquamarine;
+  }
